@@ -2,12 +2,6 @@
     "full": {
 		"yes": "oui",
 		"no": "non",
-		"do": "du",
-		"don't": "dun't",
-		"am": "ahm", 
-        "and": "eend",
-		"with": "weeth",
-		"it": "eet",
 		"captain": "capitaine", 
 		"cook": "cuisinier", 
 		"dad": "papa",
@@ -64,9 +58,7 @@
 		"three": "trois"
     },
     "start": {
-		"ga": "ge",
-		"th": "zh",
-		"h": "'"
+		"th": "zh"
 
     },
     "end": {
